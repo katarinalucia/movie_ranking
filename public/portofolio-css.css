@@ -1,0 +1,30 @@
+
+.body2 {
+    background-color: #f5ebe0;
+}
+
+.body3 {
+    background-color: #d8e2dc;
+}
+
+.imageprofile {
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+}
+
+hr {
+    border-top: 3px solid #b08968;
+}
+
+.image2{
+    padding: 5px;
+    width: 300px;
+    
+}
+
+.image3{
+    padding: 5px;
+    width: 100px;
+    
+}
